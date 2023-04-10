@@ -32,4 +32,6 @@ pnpm dev
 - For the links: React anchor link smooth scroll
 - For the forms: React hook form
 - For the fonts: Google Fonts
+- For the animations: Framer Motion
+- For the icons: Hero Icons
 
