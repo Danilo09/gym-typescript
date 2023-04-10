@@ -1,4 +1,6 @@
-# Hello everyone! I built this SPA in order to practice and know more about a application using REACTJS with Vite, TypeScript, Tailwind.
+# Hello everyone! 
+
+## I built this SPA in order to practice and know more about a application using REACTJS with Vite, TypeScript, Tailwind.
 
 
 ## Getting Started
