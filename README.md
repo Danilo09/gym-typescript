@@ -1,6 +1,6 @@
 # Hello everyone! 
 
-## This app was built in order to practice and get knowledge about a application using REACTJS + Vite, TypeScript, Tailwind.
+### This app was built in order to practice and get knowledge about a application using REACTJS + Vite, TypeScript, Tailwind.
 
 
 ## Getting Started
