@@ -15,7 +15,7 @@ yarn dev
 pnpm dev
 ```
 
-# Dependenses of this project
+### Dependenses of this project
 
 "@types/node": "^18.15.1",
 "@types/react": "^18.0.27",
