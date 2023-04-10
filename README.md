@@ -20,10 +20,10 @@ pnpm dev
 
 ### Functionalities of this project
 
-- For the CSS: Tailwindcss
+- For the css: Tailwindcss
 - For the code estructure: Typescript
-- For the Environment: Vite
-- For the links: react-anchor-link-smooth-scroll
-- For the Forms: react-hook-form
-- For the Fonts: Google Fonts
+- For the environment: Vite
+- For the links: React anchor link smooth scroll
+- For the forms: React hook form
+- For the fonts: Google Fonts
 
